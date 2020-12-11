@@ -1,5 +1,7 @@
 # GAN-wGAN
 
+## Source Code
+
 ### GAN-Gaussian
 
 The source code is `GAN_Gaussian.ipynb`.
@@ -31,3 +33,12 @@ Data of file IDs and the matched MSD IDs is under entry LPC-cleansed and called 
 The source code is at https://github.com/salu133445/musegan.
 
 A result of generated music is saved at `.Music/MuseGAN/best_samples.mp3`.
+
+## Result
+
+All our results are in the `results` folder.
+
+## Other Folders
+
+-   `imgs` and `models` are used to stored intermediate result. They are by default empty.
+-   `data` is the folder to store data input of MNIST experiment.
