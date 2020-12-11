@@ -24,9 +24,9 @@ The source code is in file `MUSIC_SIMPLE.ipynb`.
 
 On this website:
 
-Data of music sample is under entry LPD-5 and called "lpd-5-cleansed". Then, we need to put it in  directory `data/music_simple/lpd_5`.
+Data of music sample is under entry LPD-5 and called "lpd-5-cleansed". Then, we need to put it in directory `data/music_simple/lpd_5`.
 
-Data of file IDs and the matched MSD IDs is under entry LPC-cleansed and called "cleansed_ids.txt". Then, we need to put it in  directory `data/music_simple/amg`.
+Data of file IDs and the matched MSD IDs is under entry LPC-cleansed and called "cleansed_ids.txt". Then, we need to put it in directory `data/music_simple/amg`.
 
 2. A result of generated music is saved at `results/music_simple/generated_music.mp3`.
 
@@ -34,7 +34,7 @@ Data of file IDs and the matched MSD IDs is under entry LPC-cleansed and called 
 
 The source code is at https://github.com/salu133445/musegan.
 
-A result of generated music is saved at `.Music/MuseGAN/best_samples.mp3`.
+A result of generated music is saved at `Music/MuseGAN/best_samples.mp3`.
 
 ## Result
 
