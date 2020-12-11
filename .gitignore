@@ -1,5 +1,4 @@
 imgs/*
 .ipynb_checkpoints
 .idea
-models/*
 config/__pycache__/*
