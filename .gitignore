@@ -1,1 +1,4 @@
 imgs/*
+.ipynb_checkpoints
+.idea
+models/*
